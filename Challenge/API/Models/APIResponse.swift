@@ -1,0 +1,3 @@
+protocol APIResponse: Decodable {
+    
+}
